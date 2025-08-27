@@ -1,2 +1,2 @@
 # SistemaBancario
-sistema de depósito bancario no qual o usuário realiza um deposito no valor maximo de 500 reais por operação
+sistema de depósito bancário no qual o usuário realiza um deposito no valor máximo de 500 reais por operação.
